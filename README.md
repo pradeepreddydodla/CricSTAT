@@ -1,2 +1,2 @@
 # CricSTAT
-Project aims to unfold that portion of cricket statistics where we compare performance of teams by taking 20 years of data as a sample (04 Mar 2000 - 04 Mar 2022).
+Cricket is a sport that is played by people in different parts of the world. The dataset used for this assignment include details of scores, records, total number of matches played by players of India against England or vice versa. Project aims to unfold that portion of cricket statistics where we compare performance of teams (India, England) by taking 20 years of data as a sample (04 Mar 2000 - 04 Mar 2022). The data used in this project has been sourced from ESPN Cricinfo and data includes details of matches played by teams in their home ground, away from home and in neutral venues.
